@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gpt-4.1-mini",
+    "label": "GPT 4.1 Mini",
+    "description": "Fast, cost-efficient for everyday tasks.",
+    "tags": [
+      "balanced",
+      "default"
+    ]
+  },
+  {
+    "id": "gpt-4.1",
+    "label": "GPT 4.1",
+    "description": "Most capable general-purpose model.",
+    "tags": [
+      "smart",
+      "reasoning"
+    ]
+  },
+  {
+    "id": "gpt-o1-mini",
+    "label": "o1 Mini",
+    "description": "Deliberative, good for analysis within small budgets.",
+    "tags": [
+      "analysis"
+    ]
+  },
+  {
+    "id": "gpt-o1",
+    "label": "o1",
+    "description": "Best for complex, multi-step reasoning.",
+    "tags": [
+      "advanced",
+      "reasoning"
+    ]
+  }
+]

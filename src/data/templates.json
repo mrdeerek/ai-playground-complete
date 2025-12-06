@@ -1,0 +1,17 @@
+[
+  {
+    "id": "email-friendly",
+    "label": "Friendly email",
+    "prompt": "Help me write a short, friendly email to a colleague, keeping the tone casual but respectful."
+  },
+  {
+    "id": "bug-report",
+    "label": "Bug report",
+    "prompt": "You are a helpful developer assistant. Turn the following description into a clear bug report with steps, expected vs actual behaviour, and environment info."
+  },
+  {
+    "id": "study-notes",
+    "label": "Study notes",
+    "prompt": "Summarise the key ideas into concise, exam-ready bullet-point notes."
+  }
+]
